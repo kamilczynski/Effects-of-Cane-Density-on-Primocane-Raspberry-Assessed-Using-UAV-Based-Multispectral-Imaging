@@ -4,6 +4,8 @@
 This repository contains mutlispectral data, and also all preprocessing and evaluation code used in the study 
 “Effects of Cane Density on Primocane Raspberry Assessed Us-ing UAV-Based Multispectral Imaging”.
 
+<p align="justify">The "codes" folder contains all the scripts and algorithms used to analyze and pre-process the results obtained in Pix4Dfields. The "data" folder contains the results obtained in Pix4Dfields, and the "results_csv" and "results_graphs" folders contain the final results of their analysis.</p>
+
 ## Citation
 If you use this repository, please cite:
 Will be added after publication
