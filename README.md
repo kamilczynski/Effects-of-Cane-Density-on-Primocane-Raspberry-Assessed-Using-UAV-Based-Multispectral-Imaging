@@ -8,7 +8,7 @@ This repository contains mutlispectral data, and also all preprocessing and eval
 
 ## Citation
 If you use this repository, please cite:
-Will be added after publication
+https://doi.org/10.3390/agriculture16070742
 
 <p align="justify">Multispectral imaging enables the acquisition of extensive datasets that require advanced analytical processing. 
 Pix4Dfields software allows the computation of vegetation indices for user-defined areas, along with their 
