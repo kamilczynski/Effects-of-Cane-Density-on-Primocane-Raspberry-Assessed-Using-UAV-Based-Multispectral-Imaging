@@ -45,7 +45,7 @@ However, this procedure is not strictly required in all cases.</p>
   structured format.</p>
 
   <p align="justify">The analysed results represent vegetation index values, while the mathematical definitions of the applied indices are described below.</p>
-  <img src="VegetationIndex.png" alt="VegetationIndex (All).png" width="800"/>
+  <img src="VegetationIndex (All).png" alt="VegetationIndex (All).png" width="800"/>
 
 <p align="justify">
 Finally, a custom post-processing algorithm (SpectralVistula.py) was applied as the final analytical step of the workflow.
